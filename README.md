@@ -12,7 +12,7 @@ pip install Pillow
 ## Usage
 You can encode or decode hidden messages in an image by passing your image file as an argument.
 ```bash
-python3 steno.py my_img.png
+python3 steganography.py my_img.png
 ```
 
 You will then be prompted to encode a new message or attempt to decode a message.
