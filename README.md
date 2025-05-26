@@ -1,6 +1,6 @@
-# stenography-tool
+# steganography-tool
 
-Basic python implementation of LSB (Least Significant Bit) stenography to **encode** and **decode** hidden messages in images.
+Basic python implementation of LSB (Least Significant Bit) steganography to **encode** and **decode** hidden messages in images.
 
 ## Dependencies
 - Pillow
